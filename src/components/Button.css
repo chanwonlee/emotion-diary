@@ -1,0 +1,32 @@
+.button {
+    background-color: rgb(236, 236, 236);
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 18px;
+    white-space: nowrap;
+}
+
+.button_POSITIVE {
+    background-color: #04C75B;
+    color: white;
+}
+
+.button_NEGATIVE {
+    background-color: rgb(253, 86, 95);
+    color: white;
+}
+
+.button:hover {
+    background-color: rgb(218, 218, 218);
+    transition: 0.2s;
+}
+
+.button_POSITIVE:hover {
+    background-color: #15B85E
+}
+
+.button_NEGATIVE:hover {
+    background-color: rgb(225, 77, 86);
+}

@@ -1,0 +1,32 @@
+.emotionItem {
+    background-color: #ECECEC;
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 20px;
+    text-align: center;
+}
+
+.emotionItem_on_1 {
+    background-color: rgb(100, 201, 100);
+}
+
+.emotionItem_on_2 {
+    background-color: rgb(157, 215, 114);
+}
+
+.emotionItem_on_3 {
+    background-color: rgb(253, 206, 23);
+}
+
+.emotionItem_on_4 {
+    background-color: rgb(253, 132, 70);
+}
+
+.emotionItem_on_5 {
+    background-color: rgb(253, 86, 95);
+}
+
+.emotionItem img {
+    width: 50%;
+    margin-bottom: 10px;
+}
